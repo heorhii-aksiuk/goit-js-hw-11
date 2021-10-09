@@ -4,4 +4,12 @@ const refs = {
   stopBtn: document.querySelector('[data-action="stop"]'),
 };
 const { bodyEl, startBtn, stopBtn } = refs;
-console.log(bodyEl);
+
+const colors = [
+  '#FFFFFF',
+  '#2196F3',
+  '#4CAF50',
+  '#FF9800',
+  '#009688',
+  '#795548',
+];
