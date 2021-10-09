@@ -10,10 +10,14 @@
     "type": "git",
     "url": "git+https://github.com/heorhii-aksiuk/goit-js-hw-11.git"
   },
-  "author": "",
+  "keywords": [],
+  "author": "Heorhii Aksiuk",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/heorhii-aksiuk/goit-js-hw-11/issues"
   },
-  "homepage": "https://github.com/heorhii-aksiuk/goit-js-hw-11#readme"
+  "homepage": "https://github.com/heorhii-aksiuk/goit-js-hw-11#readme",
+  "devDependencies": {
+    "parcel": "^2.0.0-rc.0"
+  }
 }
