@@ -1,3 +1,5 @@
+/* Задание 1 */
+
 const refs = {
   bodyEl: document.querySelector('body'),
   startBtn: document.querySelector('[data-action="start"]'),
