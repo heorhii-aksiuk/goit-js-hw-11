@@ -14,9 +14,6 @@ const colors = [
   '#795548',
 ];
 
-startBtn.style.cursor = 'pointer';
-stopBtn.style.cursor = 'pointer';
-
 stopBtn.disabled = true;
 
 let intervalId = null;
