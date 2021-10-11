@@ -7,3 +7,13 @@ const refs = {
 };
 
 const { timerEl, daysEl, hoursEl, minsEl, secsEl } = refs;
+const courseFinishDate = new Date('Feb 13, 2022');
+
+class CountdownTimer {
+  constructor(selector, targetDate) {
+    this.selector = selector;
+    this.targetDate = targetDate;
+  }
+}
+
+const courseFinishTimer = new CountdownTimer(timerEl, courseFinishDate);
