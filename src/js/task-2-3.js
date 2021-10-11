@@ -1,24 +1,8 @@
-/* Задание 3
-Перепиши функцию makeTransaction() так, чтобы она не использовала callback-функции onSuccess и onError, а принимала всего один параметр transaction и возвращала промис. */
+/* Задание 2.3 */
 
 const randomIntegerFromInterval = (min, max) => {
   return Math.floor(Math.random() * (max - min + 1) + min);
 };
-
-/* const makeTransaction = (transaction, onSuccess, onError) => {
-  const delay = randomIntegerFromInterval(200, 500);
-
-  setTimeout(() => {
-    const canProcess = Math.random() > 0.3;
-
-    if (canProcess) {
-      onSuccess(transaction.id, delay);
-    } else {
-      onError(transaction.id);
-    }
-  }, delay);
-};
- */
 
 const makeTransaction = transaction => {
   const delay = randomIntegerFromInterval(200, 500);
@@ -26,6 +10,7 @@ const makeTransaction = transaction => {
   return new Promise((resolve, reject) => {
     setTimeout(() => {
       const canProcess = Math.random() > 0.3;
+
       if (canProcess) {
         resolve({ id: transaction.id, time: delay });
       } else {
