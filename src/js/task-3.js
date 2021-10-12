@@ -6,9 +6,9 @@ const refs = {
   secsEl: document.querySelector('[data-value="secs"]'),
 };
 const { timerEl, daysEl, hoursEl, minsEl, secsEl } = refs;
+const courseFinishDate = new Date('Feb 13, 2022');
 
 function updateTime() {
-  const courseFinishDate = new Date('Feb 13, 2022');
   const currentDate = Date.now();
   const timeUntil = courseFinishDate - currentDate;
   const days = Math.floor(timeUntil / (1000 * 60 * 60 * 24));
