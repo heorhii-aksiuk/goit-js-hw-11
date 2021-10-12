@@ -2,7 +2,7 @@
   "name": "goit-js-hw-11",
   "version": "1.0.0",
   "description": "JS. Homework #11 (Async JS, Timers, Promise API, Date)",
-  "main": "src/index.html",
+  "main": "src/index.js",
   "source": "src/index.html",
   "browserslist": "> 0.5%, last 2 versions, not dead",
   "scripts": {
@@ -20,7 +20,7 @@
   "bugs": {
     "url": "https://github.com/heorhii-aksiuk/goit-js-hw-11/issues"
   },
-  "homepage": "https://github.com/heorhii-aksiuk/goit-js-hw-11#readme",
+  "homepage": "https://github.com/heorhii-aksiuk/goit-js-hw-11/src/index.html",
   "devDependencies": {
     "@parcel/transformer-image": "^2.0.0-rc.0",
     "parcel": "^2.0.0-rc.0"
