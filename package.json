@@ -2,7 +2,7 @@
   "name": "goit-js-hw-11",
   "version": "1.0.0",
   "description": "JS. Homework #11 (Async JS, Timers, Promise API, Date)",
-  "main": "index.js",
+  "main": "src/index.html",
   "source": "src/index.html",
   "browserslist": "> 0.5%, last 2 versions, not dead",
   "scripts": {
