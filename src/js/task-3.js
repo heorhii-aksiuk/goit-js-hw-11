@@ -6,30 +6,37 @@ const refs = {
   secsEl: document.querySelector('[data-value="secs"]'),
 };
 const { timerEl, daysEl, hoursEl, minsEl, secsEl } = refs;
-const courseFinishDate = new Date('Feb 13, 2022');
 
-function updateTime() {
-  const currentDate = Date.now();
-  const timeUntil = courseFinishDate - currentDate;
-  const days = Math.floor(timeUntil / (1000 * 60 * 60 * 24));
-  const hours = Math.floor(
-    (timeUntil % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60),
-  );
-  const mins = Math.floor((timeUntil % (1000 * 60 * 60)) / (1000 * 60));
-  const secs = Math.floor((timeUntil % (1000 * 60)) / 1000);
-  daysEl.textContent = days;
-  hoursEl.textContent = hours;
-  minsEl.textContent = mins;
-  secsEl.textContent = secs;
+class CountdownTimer {
+  constructor(timerSet) {
+    const { selector, targetDate } = timerSet;
+    this.selector = selector;
+    this.targetDate = targetDate;
+  }
+
+  start() {
+    setInterval(() => {
+      const currentDate = Date.now();
+      const timeUntil = this.targetDate - currentDate;
+      const days = Math.floor(timeUntil / (1000 * 60 * 60 * 24));
+      const hours = Math.floor(
+        (timeUntil % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60),
+      );
+      const mins = Math.floor((timeUntil % (1000 * 60 * 60)) / (1000 * 60));
+      const secs = Math.floor((timeUntil % (1000 * 60)) / 1000);
+      daysEl.textContent = days;
+      hoursEl.textContent = hours;
+      minsEl.textContent = mins;
+      secsEl.textContent = secs;
+    }, 1000);
+  }
 }
 
-setInterval(updateTime, 1000);
+const courseFinishTimer = new CountdownTimer({
+  selector: '#timer-1',
+  targetDate: new Date('Feb 13, 2022'),
+});
 
-// class CountdownTimer {
-//   constructor(selector, targetDate) {
-//     this.selector = selector;
-//     this.targetDate = targetDate;
-//   }
-// }
+courseFinishTimer.start;
 
-// const courseFinishTimer = new CountdownTimer(timerEl, courseFinishDate);
+console.log(courseFinishTimer.start());
