@@ -1,7 +1,7 @@
-17544
+17567
 62D:\IT\GitHub\goit-js-hw-11\node_modules\tweetnacl\CHANGELOG.md131261002890000000 0
 79D:\IT\GitHub\goit-js-hw-11\node_modules\postcss-merge-longhand\dist\lib\trbl.js121436361000000000 0
-39D:\IT\GitHub\goit-js-hw-11\package.json132785217887860010 0
+39D:\IT\GitHub\goit-js-hw-11\package.json132785224741039253 0
 68D:\IT\GitHub\goit-js-hw-11\node_modules\type-fest\source\except.d.ts121436361000000000 0
 66D:\IT\GitHub\goit-js-hw-11\node_modules\lodash\fp\toSafeInteger.js121436361000000000 0
 99D:\IT\GitHub\goit-js-hw-11\node_modules\sharp\vendor\8.10.6\include\libxml2\libxml\xpathInternals.h132612604640000000 0
@@ -13,7 +13,7 @@
 90D:\IT\GitHub\goit-js-hw-11\node_modules\caniuse-lite\data\features\intersectionobserver.js121436361000000000 0
 59D:\IT\GitHub\goit-js-hw-11\node_modules\lodash\_getValue.js121436361000000000 0
 48D:\IT\GitHub\goit-js-hw-11\node_modules\dashdash132782613534586165 1
-31D:\IT\GitHub\goit-js-hw-11\dist132785218477922170 1
+31D:\IT\GitHub\goit-js-hw-11\dist132785224871988214 1
 50D:\IT\GitHub\goit-js-hw-11\node_modules\is-windows132782613501380469 1
 65D:\IT\GitHub\goit-js-hw-11\node_modules\is-callable\.editorconfig121436361000000000 0
 82D:\IT\GitHub\goit-js-hw-11\node_modules\svgo\plugins\removeUselessStrokeAndFill.js121436361000000000 0
@@ -41,7 +41,7 @@
 58D:\IT\GitHub\goit-js-hw-11\node_modules\yaml\browser\types132782613215209361 1
 59D:\IT\GitHub\goit-js-hw-11\node_modules\side-channel\.nycrc121436361000000000 0
 89D:\IT\GitHub\goit-js-hw-11\node_modules\postcss-modules-values\node_modules\chalk\license121436361000000000 0
-44D:\IT\GitHub\goit-js-hw-11\package-lock.json132785181187014846 0
+44D:\IT\GitHub\goit-js-hw-11\package-lock.json132785222908857097 0
 65D:\IT\GitHub\goit-js-hw-11\node_modules\lodash\fp\defaultsDeep.js121436361000000000 0
 72D:\IT\GitHub\goit-js-hw-11\node_modules\string.prototype.trimend\auto.js121436361000000000 0
 93D:\IT\GitHub\goit-js-hw-11\node_modules\sharp\vendor\8.10.6\include\glib-2.0\glib\gsequence.h132612604640000000 0
@@ -50,7 +50,7 @@
 94D:\IT\GitHub\goit-js-hw-11\node_modules\simple-swizzle\node_modules\is-arrayish\yarn-error.log131738691180000000 0
 80D:\IT\GitHub\goit-js-hw-11\node_modules\core-js\features\instance\replace-all.js121436361000000000 0
 70D:\IT\GitHub\goit-js-hw-11\node_modules\core-js\es\reflect\own-keys.js121436361000000000 0
-39D:\IT\GitHub\goit-js-hw-11\node_modules132785181175622683 1
+39D:\IT\GitHub\goit-js-hw-11\node_modules132785222898184632 1
 59D:\IT\GitHub\goit-js-hw-11\node_modules\yaml\types\pairs.js121436361000000000 0
 112D:\IT\GitHub\goit-js-hw-11\node_modules\@parcel\transformer-posthtml\node_modules\htmlparser2\lib\Tokenizer.d.ts121436361000000000 0
 57D:\IT\GitHub\goit-js-hw-11\node_modules\lodash\fp\path.js121436361000000000 0
@@ -128,7 +128,7 @@
 49D:\IT\GitHub\goit-js-hw-11\node_modules\data-urls132782613394881620 1
 81D:\IT\GitHub\goit-js-hw-11\node_modules\caniuse-lite\data\features\ol-reversed.js121436361000000000 0
 63D:\IT\GitHub\goit-js-hw-11\node_modules\hmac-drbg\test\fixtures132782613258092067 1
-44D:\IT\GitHub\goit-js-hw-11\node_modules\@swc132782613310706213 1
+44D:\IT\GitHub\goit-js-hw-11\node_modules\@swc132785222897725851 1
 94D:\IT\GitHub\goit-js-hw-11\node_modules\sharp\vendor\8.10.6\include\libxml2\libxml\xmlstring.h132612604640000000 0
 85D:\IT\GitHub\goit-js-hw-11\node_modules\es-abstract\5\AbstractRelationalComparison.js121436361000000000 0
 56D:\IT\GitHub\goit-js-hw-11\node_modules\merge2\README.md121436361000000000 0
@@ -601,6 +601,7 @@
 62D:\IT\GitHub\goit-js-hw-11\node_modules\css-select\lib\sort.js121436361000000000 0
 64D:\IT\GitHub\goit-js-hw-11\node_modules\assign-symbols\README.md131581962510000000 0
 84D:\IT\GitHub\goit-js-hw-11\node_modules\json-schema-traverse\spec\fixtures\schema.js131702814080000000 0
+56D:\IT\GitHub\goit-js-hw-11\dist\background.09110396.jpeg132785224784864844 0
 44D:\IT\GitHub\goit-js-hw-11\node_modules\base132782613417049023 1
 80D:\IT\GitHub\goit-js-hw-11\node_modules\@parcel\source-map\parcel_sourcemap_node132782613256606052 1
 95D:\IT\GitHub\goit-js-hw-11\node_modules\sharp\vendor\8.10.6\include\glib-2.0\glib\gtrashstack.h132612604640000000 0
@@ -713,7 +714,7 @@
 54D:\IT\GitHub\goit-js-hw-11\node_modules\browserify-rsa132782613443810320 1
 83D:\IT\GitHub\goit-js-hw-11\node_modules\jsdom\lib\jsdom\living\helpers\selectors.js121436361000000000 0
 91D:\IT\GitHub\goit-js-hw-11\node_modules\sharp\node_modules\semver\internal\parse-options.js121436361000000000 0
-50D:\IT\GitHub\goit-js-hw-11\dist\index.8c432c8d.css132785218477723306 0
+50D:\IT\GitHub\goit-js-hw-11\dist\index.8c432c8d.css132785224552048711 0
 84D:\IT\GitHub\goit-js-hw-11\node_modules\utility-types\dist\aliases-and-guards.js.map121436361000000000 0
 120D:\IT\GitHub\goit-js-hw-11\node_modules\jsdom\lib\jsdom\living\constraint-validation\DefaultConstraintValidation-impl.js121436361000000000 0
 61D:\IT\GitHub\goit-js-hw-11\node_modules\postcss-modules-scope132782613463487024 1
@@ -1700,7 +1701,7 @@
 49D:\IT\GitHub\goit-js-hw-11\node_modules\hmac-drbg132782613488720072 1
 65D:\IT\GitHub\goit-js-hw-11\node_modules\component-emitter\LICENSE131054789910000000 0
 82D:\IT\GitHub\goit-js-hw-11\node_modules\hash-base\node_modules\safe-buffer\LICENSE121436361000000000 0
-61D:\IT\GitHub\goit-js-hw-11\dist\partials\task-2-2.ee8424c0.js132785218477723306 0
+61D:\IT\GitHub\goit-js-hw-11\dist\partials\task-2-2.ee8424c0.js132785224552048711 0
 61D:\IT\GitHub\goit-js-hw-11\node_modules\html-encoding-sniffer132782613394891592 1
 65D:\IT\GitHub\goit-js-hw-11\node_modules\lodash\_escapeHtmlChar.js121436361000000000 0
 49D:\IT\GitHub\goit-js-hw-11\node_modules\html-tags132782613517280355 1
@@ -1735,7 +1736,7 @@
 82D:\IT\GitHub\goit-js-hw-11\node_modules\es-abstract\2015\CreateIterResultObject.js121436361000000000 0
 71D:\IT\GitHub\goit-js-hw-11\node_modules\caniuse-lite\data\regions\BS.js121436361000000000 0
 65D:\IT\GitHub\goit-js-hw-11\node_modules\htmlnano\docs\sidebars.js121436361000000000 0
-60D:\IT\GitHub\goit-js-hw-11\node_modules\@swc\helpers\.vscode132782613204765246 1
+60D:\IT\GitHub\goit-js-hw-11\node_modules\@swc\helpers\.vscode132785222895478816 1
 47D:\IT\GitHub\goit-js-hw-11\node_modules\kind-of132782613497588045 1
 84D:\IT\GitHub\goit-js-hw-11\node_modules\core-js\modules\esnext.symbol.replace-all.js121436361000000000 0
 74D:\IT\GitHub\goit-js-hw-11\node_modules\core-js\features\typed-array\of.js121436361000000000 0
@@ -3567,6 +3568,7 @@
 71D:\IT\GitHub\goit-js-hw-11\node_modules\utility-types\dist\index.js.map121436361000000000 0
 74D:\IT\GitHub\goit-js-hw-11\node_modules\core-js\stable\instance\pad-end.js121436361000000000 0
 67D:\IT\GitHub\goit-js-hw-11\node_modules\to-regex-range\package.json132782613417058987 0
+65D:\IT\GitHub\goit-js-hw-11\dist\partials\task-2-3.79a3f5b9.js.map132785224871958292 0
 82D:\IT\GitHub\goit-js-hw-11\node_modules\htmlnano\lib\modules\removeOptionalTags.js121436361000000000 0
 126D:\IT\GitHub\goit-js-hw-11\node_modules\@parcel\node-libs-browser\node_modules\readable-stream\lib\internal\streams\destroy.js121436361000000000 0
 64D:\IT\GitHub\goit-js-hw-11\node_modules\lodash\takeRightWhile.js121436361000000000 0
@@ -4883,6 +4885,7 @@
 77D:\IT\GitHub\goit-js-hw-11\node_modules\escodegen\node_modules\source-map\lib132782613271685692 1
 84D:\IT\GitHub\goit-js-hw-11\node_modules\stylehacks\dist\plugins\leadingUnderscore.js121436361000000000 0
 75D:\IT\GitHub\goit-js-hw-11\node_modules\es-abstract\2020\thisBigIntValue.js121436361000000000 0
+65D:\IT\GitHub\goit-js-hw-11\dist\partials\task-2-1.16f1eff5.js.map132785224871958292 0
 92D:\IT\GitHub\goit-js-hw-11\node_modules\jsdom\lib\jsdom\living\generated\HTMLTitleElement.js121436361000000000 0
 78D:\IT\GitHub\goit-js-hw-11\node_modules\stylehacks\dist\plugins\mediaSlash0.js121436361000000000 0
 76D:\IT\GitHub\goit-js-hw-11\node_modules\es-abstract\2021\BigInt\sameValue.js121436361000000000 0
@@ -5996,7 +5999,7 @@
 81D:\IT\GitHub\goit-js-hw-11\node_modules\@nodelib\fs.walk\out\providers\index.d.ts121436361000000000 0
 73D:\IT\GitHub\goit-js-hw-11\node_modules\cssstyle\lib\properties\height.js121436361000000000 0
 58D:\IT\GitHub\goit-js-hw-11\node_modules\request\lib\har.js121436361000000000 0
-63D:\IT\GitHub\goit-js-hw-11\dist\partials\task-1.4af3b3f7.js.map132785218477932142 0
+63D:\IT\GitHub\goit-js-hw-11\dist\partials\task-1.4af3b3f7.js.map132785224552238219 0
 93D:\IT\GitHub\goit-js-hw-11\node_modules\sharp\vendor\8.10.6\include\libxml2\libxml\xpointer.h132612604640000000 0
 57D:\IT\GitHub\goit-js-hw-11\node_modules\globby\index.d.ts121436361000000000 0
 62D:\IT\GitHub\goit-js-hw-11\node_modules\htmlnano\.eslintignore121436361000000000 0
@@ -7117,6 +7120,7 @@
 109D:\IT\GitHub\goit-js-hw-11\node_modules\@parcel\transformer-html\node_modules\posthtml-render\dist\index.d.ts121436361000000000 0
 59D:\IT\GitHub\goit-js-hw-11\node_modules\lodash\kebabCase.js121436361000000000 0
 66D:\IT\GitHub\goit-js-hw-11\node_modules\relateurl\lib\constants.js130516774050000000 0
+65D:\IT\GitHub\goit-js-hw-11\dist\partials\task-2-2.1b70c6ca.js.map132785224871958292 0
 68D:\IT\GitHub\goit-js-hw-11\node_modules\postcss-modules\package.json132782613397661462 0
 66D:\IT\GitHub\goit-js-hw-11\node_modules\highlight.js\scss\gml.scss121436361000000000 0
 66D:\IT\GitHub\goit-js-hw-11\node_modules\@nodelib\fs.stat\README.md121436361000000000 0
@@ -7363,8 +7367,8 @@
 83D:\IT\GitHub\goit-js-hw-11\node_modules\public-encrypt\node_modules\bn.js\README.md121436361000000000 0
 83D:\IT\GitHub\goit-js-hw-11\node_modules\public-encrypt\node_modules\bn.js\lib\bn.js121436361000000000 0
 60D:\IT\GitHub\goit-js-hw-11\node_modules\lodash\_arrayEach.js121436361000000000 0
-65D:\IT\GitHub\goit-js-hw-11\dist\partials\task-2-2.ee8424c0.js.map132785218477892244 0
-42D:\IT\GitHub\goit-js-hw-11\dist\index.html132785218477713350 0
+65D:\IT\GitHub\goit-js-hw-11\dist\partials\task-2-2.ee8424c0.js.map132785224552248179 0
+42D:\IT\GitHub\goit-js-hw-11\dist\index.html132785224871723790 0
 61D:\IT\GitHub\goit-js-hw-11\node_modules\lodash\_reEvaluate.js121436361000000000 0
 65D:\IT\GitHub\goit-js-hw-11\node_modules\psl\browserstack-logo.svg121436361000000000 0
 66D:\IT\GitHub\goit-js-hw-11\node_modules\asynckit\lib\terminator.js131101391210000000 0
@@ -9286,7 +9290,7 @@
 55D:\IT\GitHub\goit-js-hw-11\node_modules\mkdirp\index.js121436361000000000 0
 72D:\IT\GitHub\goit-js-hw-11\node_modules\es-abstract\2017\ToDateString.js121436361000000000 0
 92D:\IT\GitHub\goit-js-hw-11\node_modules\is-weakref\.github\workflows\require-allow-edits.yml121436361000000000 0
-59D:\IT\GitHub\goit-js-hw-11\dist\partials\task-1.4af3b3f7.js132785218477723306 0
+59D:\IT\GitHub\goit-js-hw-11\dist\partials\task-1.4af3b3f7.js132785224552048711 0
 50D:\IT\GitHub\goit-js-hw-11\node_modules\mkdirp\lib132782613256067491 1
 122D:\IT\GitHub\goit-js-hw-11\node_modules\@parcel\node-resolver-core\test\fixture\node_modules\package-fallback\package.json121436361000000000 0
 54D:\IT\GitHub\goit-js-hw-11\node_modules\is-nan\auto.js121436361000000000 0
@@ -10517,7 +10521,7 @@
 80D:\IT\GitHub\goit-js-hw-11\node_modules\core-js\features\symbol\pattern-match.js121436361000000000 0
 71D:\IT\GitHub\goit-js-hw-11\node_modules\jsdom\lib\jsdom\level2\style.js121436361000000000 0
 80D:\IT\GitHub\goit-js-hw-11\node_modules\@parcel\reporter-dev-server\src\.babelrc121436361000000000 0
-63D:\IT\GitHub\goit-js-hw-11\dist\partials\task-3.0759d05e.js.map132785218477922170 0
+63D:\IT\GitHub\goit-js-hw-11\dist\partials\task-3.0759d05e.js.map132785224552248179 0
 73D:\IT\GitHub\goit-js-hw-11\node_modules\es-abstract\2021\IsPropertyKey.js121436361000000000 0
 75D:\IT\GitHub\goit-js-hw-11\node_modules\loader-utils\lib\interpolateName.js121436361000000000 0
 80D:\IT\GitHub\goit-js-hw-11\node_modules\class-utils\node_modules\define-property132782613510807151 1
@@ -10659,7 +10663,7 @@
 97D:\IT\GitHub\goit-js-hw-11\node_modules\lmdb-store\dependencies\lmdb\libraries\liblmdb\mdb_dump.c121436361000000000 0
 74D:\IT\GitHub\goit-js-hw-11\node_modules\core-js\internals\engine-is-ios.js121436361000000000 0
 71D:\IT\GitHub\goit-js-hw-11\node_modules\get-symbol-description\index.js121436361000000000 0
-56D:\IT\GitHub\goit-js-hw-11\node_modules\@swc\helpers\lib132782613214541149 1
+56D:\IT\GitHub\goit-js-hw-11\node_modules\@swc\helpers\lib132785222896419342 1
 97D:\IT\GitHub\goit-js-hw-11\node_modules\lmdb-store\dependencies\lmdb\libraries\liblmdb\mdb_load.c121436361000000000 0
 97D:\IT\GitHub\goit-js-hw-11\node_modules\lmdb-store\dependencies\lmdb\libraries\liblmdb\mdb_stat.1121436361000000000 0
 65D:\IT\GitHub\goit-js-hw-11\node_modules\highlight.js\package.json132782613515252130 0
@@ -10980,6 +10984,7 @@
 91D:\IT\GitHub\goit-js-hw-11\node_modules\jsdom\lib\jsdom\living\generated\CustomEventInit.js121436361000000000 0
 94D:\IT\GitHub\goit-js-hw-11\node_modules\jsdom\lib\jsdom\living\generated\DocumentReadyState.js121436361000000000 0
 89D:\IT\GitHub\goit-js-hw-11\node_modules\jsdom\lib\jsdom\living\generated\ProgressEvent.js121436361000000000 0
+61D:\IT\GitHub\goit-js-hw-11\dist\partials\task-2-3.92abde41.js132785224871723790 0
 88D:\IT\GitHub\goit-js-hw-11\node_modules\jsdom\lib\jsdom\living\generated\DocumentType.js121436361000000000 0
 89D:\IT\GitHub\goit-js-hw-11\node_modules\@parcel\optimizer-cssnano\src\CSSNanoOptimizer.js121436361000000000 0
 88D:\IT\GitHub\goit-js-hw-11\node_modules\jsdom\lib\jsdom\living\generated\DOMStringMap.js121436361000000000 0
@@ -12753,7 +12758,7 @@
 94D:\IT\GitHub\goit-js-hw-11\node_modules\es-abstract\2021\ApplyStringOrNumericBinaryOperator.js121436361000000000 0
 78D:\IT\GitHub\goit-js-hw-11\node_modules\es-abstract\2021\ArraySpeciesCreate.js121436361000000000 0
 63D:\IT\GitHub\goit-js-hw-11\node_modules\es-abstract\2021\BigInt132782613289637655 1
-65D:\IT\GitHub\goit-js-hw-11\dist\partials\task-2-1.cfaff479.js.map132785218477892244 0
+65D:\IT\GitHub\goit-js-hw-11\dist\partials\task-2-1.cfaff479.js.map132785224552258167 0
 69D:\IT\GitHub\goit-js-hw-11\node_modules\es-abstract\2021\BinaryAnd.js121436361000000000 0
 85D:\IT\GitHub\goit-js-hw-11\node_modules\core-js\internals\correct-prototype-getter.js121436361000000000 0
 69D:\IT\GitHub\goit-js-hw-11\node_modules\es-abstract\2021\BinaryXor.js121436361000000000 0
@@ -13642,7 +13647,7 @@
 47D:\IT\GitHub\goit-js-hw-11\node_modules\ejs\lib132782613273470925 1
 54D:\IT\GitHub\goit-js-hw-11\node_modules\ejs\lib\ejs.js132186645850000000 0
 57D:\IT\GitHub\goit-js-hw-11\node_modules\ee-first\index.js130770546470000000 0
-52D:\IT\GitHub\goit-js-hw-11\dist\partials\task-3.html132785218477723306 0
+52D:\IT\GitHub\goit-js-hw-11\dist\partials\task-3.html132785224871723790 0
 58D:\IT\GitHub\goit-js-hw-11\node_modules\ee-first\README.md130770514230000000 0
 56D:\IT\GitHub\goit-js-hw-11\node_modules\ecc-jsbn\LICENSE131773530150000000 0
 71D:\IT\GitHub\goit-js-hw-11\node_modules\core-js\stable\reflect\apply.js121436361000000000 0
@@ -15032,6 +15037,7 @@
 71D:\IT\GitHub\goit-js-hw-11\node_modules\core-js\features\string\trim.js121436361000000000 0
 72D:\IT\GitHub\goit-js-hw-11\node_modules\core-js\features\string\index.js121436361000000000 0
 70D:\IT\GitHub\goit-js-hw-11\node_modules\core-js\features\string\raw.js121436361000000000 0
+63D:\IT\GitHub\goit-js-hw-11\dist\partials\task-3.57a77d24.js.map132785224871958292 0
 73D:\IT\GitHub\goit-js-hw-11\node_modules\core-js\features\string\repeat.js121436361000000000 0
 83D:\IT\GitHub\goit-js-hw-11\node_modules\caniuse-lite\data\features\html5semantic.js121436361000000000 0
 73D:\IT\GitHub\goit-js-hw-11\node_modules\core-js\features\string\search.js121436361000000000 0
@@ -15539,6 +15545,7 @@
 80D:\IT\GitHub\goit-js-hw-11\node_modules\browserify-sign\node_modules\safe-buffer132782613546362881 1
 54D:\IT\GitHub\goit-js-hw-11\node_modules\color\index.js121436361000000000 0
 53D:\IT\GitHub\goit-js-hw-11\node_modules\color\LICENSE121436361000000000 0
+63D:\IT\GitHub\goit-js-hw-11\dist\partials\task-1.65cc5ace.js.map132785224871958292 0
 78D:\IT\GitHub\goit-js-hw-11\node_modules\color\node_modules\color-name\index.js131446304070000000 0
 81D:\IT\GitHub\goit-js-hw-11\node_modules\color\node_modules\color-convert\route.js121436361000000000 0
 65D:\IT\GitHub\goit-js-hw-11\node_modules\collection-visit\index.js131362486930000000 0
@@ -15938,7 +15945,7 @@
 76D:\IT\GitHub\goit-js-hw-11\node_modules\caniuse-lite\data\features\tls1-3.js121436361000000000 0
 83D:\IT\GitHub\goit-js-hw-11\node_modules\caniuse-lite\data\features\token-binding.js121436361000000000 0
 82D:\IT\GitHub\goit-js-hw-11\node_modules\caniuse-lite\data\features\transforms2d.js121436361000000000 0
-56D:\IT\GitHub\goit-js-hw-11\dist\background.1a73ce8b.jpeg132785218476265384 0
+56D:\IT\GitHub\goit-js-hw-11\dist\background.1a73ce8b.jpeg132785224551200982 0
 83D:\IT\GitHub\goit-js-hw-11\node_modules\caniuse-lite\data\features\trusted-types.js121436361000000000 0
 81D:\IT\GitHub\goit-js-hw-11\node_modules\caniuse-lite\data\features\typedarrays.js121436361000000000 0
 88D:\IT\GitHub\goit-js-hw-11\node_modules\caniuse-lite\data\features\unhandledrejection.js121436361000000000 0
@@ -16142,6 +16149,7 @@
 73D:\IT\GitHub\goit-js-hw-11\node_modules\asynckit\lib\readable_parallel.js131101905110000000 0
 71D:\IT\GitHub\goit-js-hw-11\node_modules\asynckit\lib\readable_serial.js131101888710000000 0
 67D:\IT\GitHub\goit-js-hw-11\node_modules\async-limiter\.eslintignore121436361000000000 0
+59D:\IT\GitHub\goit-js-hw-11\dist\partials\task-1.d3cfccd0.js132785224871723790 0
 60D:\IT\GitHub\goit-js-hw-11\node_modules\async-limiter\.nycrc121436361000000000 0
 65D:\IT\GitHub\goit-js-hw-11\node_modules\async-limiter\.travis.yml121436361000000000 0
 62D:\IT\GitHub\goit-js-hw-11\node_modules\async-limiter\index.js121436361000000000 0
@@ -16187,6 +16195,7 @@
 60D:\IT\GitHub\goit-js-hw-11\node_modules\array-union\index.js121436361000000000 0
 59D:\IT\GitHub\goit-js-hw-11\node_modules\array-union\license121436361000000000 0
 61D:\IT\GitHub\goit-js-hw-11\node_modules\array-union\readme.md121436361000000000 0
+61D:\IT\GitHub\goit-js-hw-11\dist\partials\task-2-1.16f1eff5.js132785224871723790 0
 66D:\IT\GitHub\goit-js-hw-11\node_modules\array-equal\component.json130432365670000000 0
 60D:\IT\GitHub\goit-js-hw-11\node_modules\array-equal\index.js130432365020000000 0
 64D:\IT\GitHub\goit-js-hw-11\node_modules\array-equal\package.json132782613358052849 0
@@ -16298,7 +16307,7 @@
 67D:\IT\GitHub\goit-js-hw-11\node_modules\@types\node\perf_hooks.d.ts132779394890000000 0
 65D:\IT\GitHub\goit-js-hw-11\node_modules\@types\node\readline.d.ts132779394890000000 0
 73D:\IT\GitHub\goit-js-hw-11\node_modules\@parcel\reporter-cli\lib\utils.js121436361000000000 0
-65D:\IT\GitHub\goit-js-hw-11\node_modules\@swc\helpers\package.json132782613357400186 0
+65D:\IT\GitHub\goit-js-hw-11\node_modules\@swc\helpers\package.json132785222897835559 0
 61D:\IT\GitHub\goit-js-hw-11\node_modules\@types\node\README.md132779394880000000 0
 61D:\IT\GitHub\goit-js-hw-11\node_modules\@types\node\repl.d.ts132779394890000000 0
 63D:\IT\GitHub\goit-js-hw-11\node_modules\@types\node\stream.d.ts132779394890000000 0
@@ -16313,9 +16322,9 @@
 70D:\IT\GitHub\goit-js-hw-11\node_modules\@types\http-proxy\package.json132782613358062873 0
 61D:\IT\GitHub\goit-js-hw-11\node_modules\@trysound\sax\LICENSE121436361000000000 0
 66D:\IT\GitHub\goit-js-hw-11\node_modules\@trysound\sax\package.json132782613358062873 0
-52D:\IT\GitHub\goit-js-hw-11\node_modules\@swc\helpers132782613370362721 1
-60D:\IT\GitHub\goit-js-hw-11\node_modules\@swc\helpers\scripts132782613215019863 1
-56D:\IT\GitHub\goit-js-hw-11\node_modules\@swc\helpers\src132782613221731680 1
+52D:\IT\GitHub\goit-js-hw-11\node_modules\@swc\helpers132785222898074905 1
+60D:\IT\GitHub\goit-js-hw-11\node_modules\@swc\helpers\scripts132785222896429319 1
+56D:\IT\GitHub\goit-js-hw-11\node_modules\@swc\helpers\src132785222897067609 1
 65D:\IT\GitHub\goit-js-hw-11\node_modules\@swc\helpers\src\index.js132732112500000000 0
 87D:\IT\GitHub\goit-js-hw-11\node_modules\@swc\helpers\src\_apply_decorated_descriptor.js132732112750000000 0
 77D:\IT\GitHub\goit-js-hw-11\node_modules\@swc\helpers\src\_array_with_holes.js132732112500000000 0
@@ -17032,6 +17041,7 @@
 80D:\IT\GitHub\goit-js-hw-11\node_modules\@parcel\babel-ast-utils\lib\generator.js121436361000000000 0
 56D:\IT\GitHub\goit-js-hw-11\node_modules\@nodelib\fs.walk132782613446560485 1
 64D:\IT\GitHub\goit-js-hw-11\node_modules\@nodelib\fs.walk\LICENSE121436361000000000 0
+65D:\IT\GitHub\goit-js-hw-11\dist\partials\task-2-1.bae9102a.js.map132785224871958292 0
 71D:\IT\GitHub\goit-js-hw-11\node_modules\@nodelib\fs.walk\out\index.d.ts121436361000000000 0
 69D:\IT\GitHub\goit-js-hw-11\node_modules\@nodelib\fs.walk\out\index.js121436361000000000 0
 68D:\IT\GitHub\goit-js-hw-11\node_modules\@nodelib\fs.walk\out\readers132782613245804951 1
@@ -17183,6 +17193,7 @@
 76D:\IT\GitHub\goit-js-hw-11\node_modules\@babel\types\lib\ast-types\generated132782613235626333 1
 85D:\IT\GitHub\goit-js-hw-11\node_modules\@babel\types\lib\ast-types\generated\index.js121012626000000000 0
 74D:\IT\GitHub\goit-js-hw-11\node_modules\@babel\types\lib\asserts\generated132782613234349757 1
+65D:\IT\GitHub\goit-js-hw-11\dist\partials\task-2-2.ad595799.js.map132785224871958292 0
 83D:\IT\GitHub\goit-js-hw-11\node_modules\@babel\types\lib\asserts\generated\index.js121012626000000000 0
 63D:\IT\GitHub\goit-js-hw-11\node_modules\@babel\traverse\LICENSE121012626000000000 0
 68D:\IT\GitHub\goit-js-hw-11\node_modules\@babel\traverse\node_modules132782613349848795 1
@@ -17520,26 +17531,38 @@
 53D:\IT\GitHub\goit-js-hw-11\node_modules\.bin\uuid.cmd132782613551126794 0
 53D:\IT\GitHub\goit-js-hw-11\node_modules\.bin\uuid.ps1132782613551126794 0
 54D:\IT\GitHub\goit-js-hw-11\node_modules\.bin\which.cmd132782613551196600 0
-57D:\IT\GitHub\goit-js-hw-11\dist\goit-js-hw-11.94e89cdd.js132785218477723306 0
-61D:\IT\GitHub\goit-js-hw-11\dist\goit-js-hw-11.94e89cdd.js.map132785218477902215 0
-54D:\IT\GitHub\goit-js-hw-11\dist\index.8c432c8d.css.map132785218477882283 0
-40D:\IT\GitHub\goit-js-hw-11\dist\partials132785218477942115 1
+57D:\IT\GitHub\goit-js-hw-11\dist\goit-js-hw-11.94e89cdd.js132785224552048711 0
+61D:\IT\GitHub\goit-js-hw-11\dist\goit-js-hw-11.94e89cdd.js.map132785224552248179 0
+54D:\IT\GitHub\goit-js-hw-11\dist\index.8c432c8d.css.map132785224552238219 0
+50D:\IT\GitHub\goit-js-hw-11\dist\index.9041641c.css132785224871723790 0
+54D:\IT\GitHub\goit-js-hw-11\dist\index.9041641c.css.map132785224871958292 0
+40D:\IT\GitHub\goit-js-hw-11\dist\partials132785224871998183 1
 54D:\IT\GitHub\goit-js-hw-11\dist\task-3.b73e4b18.js.map132782644989722073 0
 59D:\IT\GitHub\goit-js-hw-11\dist\partials\task-1.2e799a59.js132783703499897196 0
 63D:\IT\GitHub\goit-js-hw-11\dist\partials\task-1.2e799a59.js.map132783703500150185 0
+59D:\IT\GitHub\goit-js-hw-11\dist\partials\task-1.65cc5ace.js132785224871723790 0
 60D:\IT\GitHub\goit-js-hw-11\dist\partials\task-1.8c432c8d.css132783735416524251 0
-52D:\IT\GitHub\goit-js-hw-11\dist\partials\task-1.html132785218477713350 0
-61D:\IT\GitHub\goit-js-hw-11\dist\partials\task-2-1.cfaff479.js132785218477723306 0
-54D:\IT\GitHub\goit-js-hw-11\dist\partials\task-2-1.html132785218477723306 0
-54D:\IT\GitHub\goit-js-hw-11\dist\partials\task-2-2.html132785218477723306 0
-61D:\IT\GitHub\goit-js-hw-11\dist\partials\task-2-3.f3800446.js132785218477723306 0
-65D:\IT\GitHub\goit-js-hw-11\dist\partials\task-2-3.f3800446.js.map132785218477892244 0
-54D:\IT\GitHub\goit-js-hw-11\dist\partials\task-2-3.html132785218477723306 0
+63D:\IT\GitHub\goit-js-hw-11\dist\partials\task-1.d3cfccd0.js.map132785224871938353 0
+52D:\IT\GitHub\goit-js-hw-11\dist\partials\task-1.html132785224871723790 0
+61D:\IT\GitHub\goit-js-hw-11\dist\partials\task-2-1.bae9102a.js132785224871723790 0
+61D:\IT\GitHub\goit-js-hw-11\dist\partials\task-2-1.cfaff479.js132785224552048711 0
+54D:\IT\GitHub\goit-js-hw-11\dist\partials\task-2-1.html132785224871723790 0
+61D:\IT\GitHub\goit-js-hw-11\dist\partials\task-2-2.1b70c6ca.js132785224871723790 0
+61D:\IT\GitHub\goit-js-hw-11\dist\partials\task-2-2.ad595799.js132785224871723790 0
+54D:\IT\GitHub\goit-js-hw-11\dist\partials\task-2-2.html132785224871723790 0
+61D:\IT\GitHub\goit-js-hw-11\dist\partials\task-2-3.79a3f5b9.js132785224871723790 0
+65D:\IT\GitHub\goit-js-hw-11\dist\partials\task-2-3.92abde41.js.map132785224871958292 0
+61D:\IT\GitHub\goit-js-hw-11\dist\partials\task-2-3.f3800446.js132785224552048711 0
+65D:\IT\GitHub\goit-js-hw-11\dist\partials\task-2-3.f3800446.js.map132785224552248179 0
+54D:\IT\GitHub\goit-js-hw-11\dist\partials\task-2-3.html132785224871723790 0
 63D:\IT\GitHub\goit-js-hw-11\dist\partials\task-2.0eb52e55.js.map132783703500160170 0
 59D:\IT\GitHub\goit-js-hw-11\dist\partials\task-2.cfaff479.js132783703854953473 0
 59D:\IT\GitHub\goit-js-hw-11\dist\partials\task-2.d8d11f19.js132783703499897196 0
 63D:\IT\GitHub\goit-js-hw-11\dist\partials\task-2.d8d11f19.js.map132783703500160170 0
 59D:\IT\GitHub\goit-js-hw-11\dist\partials\task-2.ee8424c0.js132783703854953473 0
 63D:\IT\GitHub\goit-js-hw-11\dist\partials\task-2.ee8424c0.js.map132783703854983403 0
-59D:\IT\GitHub\goit-js-hw-11\dist\partials\task-3.0759d05e.js132785218477723306 0
+59D:\IT\GitHub\goit-js-hw-11\dist\partials\task-3.0759d05e.js132785224552048711 0
 59D:\IT\GitHub\goit-js-hw-11\dist\partials\task-3.4f2d0e3e.js132785210900452820 0
+59D:\IT\GitHub\goit-js-hw-11\dist\partials\task-3.57a77d24.js132785224871723790 0
+59D:\IT\GitHub\goit-js-hw-11\dist\partials\task-3.73f842e3.js132785224871723790 0
+63D:\IT\GitHub\goit-js-hw-11\dist\partials\task-3.73f842e3.js.map132785224871958292 0
